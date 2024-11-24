@@ -11,8 +11,7 @@
 5. [Database Schema (Prisma)](#5-database-schema-prisma)
 6. [Project Roadmap](#6-project-roadmap)
 7. [Milestones](#7-milestones)
-8. [Legal and Compliance](#8-legal-and-compliance)
-9. [Conclusion](#9-conclusion)
+
 
 ---
 
